@@ -3,7 +3,6 @@
 <!--
 **GISGIT/GISGIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-This is GISGIT.
 
 - 🔭 working on Chinese Academy of Agricultural Sciences
 - 🌱 Learning computer vision and deep learning segmentation
